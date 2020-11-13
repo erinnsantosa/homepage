@@ -1,0 +1,90 @@
+.name
+{
+    text-align: center;
+    color: skyblue;
+    font-size: 24;
+    font-family: sans-serif;
+}
+.greeting
+{
+    font-weight: bold;
+    text-align: center;
+}
+.introduction
+{
+    margin: 0;
+    text-align: center;
+}
+.tu, .coding, .erin
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 160px;
+    width: 130px;
+    padding: 10px;
+}
+.topnav
+{
+    border-style: hidden;
+    background-color: black;
+    word-spacing: 200px;
+    text-align: center;
+}
+.active
+{
+    border-style: hidden;
+}
+.dropdown
+{
+    text-align: center;
+    padding: 30px;
+    background-color: lightgray;
+}
+.fb, .li
+{
+    height: 40px;
+    width: 40px;
+    text-align: justify;
+}
+.ig
+{
+    height: 55px;
+    width: 55px;
+    text-align: justify;
+}
+.travelspots
+{
+    padding: 50px;
+    margin-left: 410px;
+}
+.Maryland, .Pennsylvania, .WashingtonDC, .Florida, .Jakarta, .Semarang
+{
+    height: 180px;
+    width: 270px;
+    text-align: center;
+    padding: 10px;
+}
+.traveltext
+{
+    text-align: center;
+}
+.carousel
+{
+    margin-right: auto;
+    margin-left: auto;
+}
+.galbi, .hotpot, .burger, .steakandfries
+{
+    height:400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.favoritehobbies
+{
+    margin-left: 500px;
+}
+.hobbies
+{
+    text-align: center;
+}
